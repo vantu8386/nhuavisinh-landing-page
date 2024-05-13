@@ -1644,7 +1644,8 @@ new WOW().init();
     options: {
       settings: null,
       cursor: "mfp-ajax-cur",
-      tError: '<a href="%url%">The content</a> could not be loaded.',
+      tError:
+        '<a href="nhuavisinh-landing-page/%url%">The content</a> could not be loaded.',
     },
     proto: {
       initAjax: function () {
@@ -1706,7 +1707,8 @@ new WOW().init();
       cursor: "mfp-zoom-out-cur",
       titleSrc: "title",
       verticalFit: !0,
-      tError: '<a href="%url%">The image</a> could not be loaded.',
+      tError:
+        '<a href="nhuavisinh-landing-page/%url%">The image</a> could not be loaded.',
     },
     proto: {
       initImage: function () {
@@ -1962,7 +1964,7 @@ new WOW().init();
   a.magnificPopup.registerModule(P, {
     options: {
       markup:
-        '<div class="mfp-iframe-scaler"><div class="mfp-close"></div><iframe class="mfp-iframe" src="//about:blank" frameborder="0" allowfullscreen></iframe></div>',
+        '<div class="mfp-iframe-scaler"><div class="mfp-close"></div><iframe class="mfp-iframe" src="nhuavisinh-landing-page///about:blank" frameborder="0" allowfullscreen></iframe></div>',
       srcAction: "iframe_src",
       patterns: {
         youtube: {
