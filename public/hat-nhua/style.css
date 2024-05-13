@@ -1162,7 +1162,7 @@ PADDING LEFT
 }
 
 .section-heading h2:after {
-  background: rgba(0, 0, 0, 0) url("/assets/hat-nhua/img/others/line-shape.png")
+  background: rgba(0, 0, 0, 0) url("/public/hat-nhua/img/others/line-shape.png")
     no-repeat scroll 0 0;
   content: "";
   height: 11px;
@@ -1176,7 +1176,7 @@ PADDING LEFT
 
 .section-heading.white-shape h2:after {
   background: rgba(0, 0, 0, 0)
-    url("/assets/hat-nhua/img/others/line-shape-white.png") no-repeat scroll 0 0;
+    url("/public/hat-nhua/img/others/line-shape-white.png") no-repeat scroll 0 0;
 }
 
 .section-heading p {
@@ -1189,7 +1189,7 @@ PADDING LEFT
 
 .section-heading.shape-2 h2:after {
   background: rgba(0, 0, 0, 0)
-    url("/assets/hat-nhua/assets/hat-nhua/img/others/line-shape-2.png")
+    url("/public/hat-nhua/public/hat-nhua/img/others/line-shape-2.png")
     no-repeat scroll 0 0;
 }
 
